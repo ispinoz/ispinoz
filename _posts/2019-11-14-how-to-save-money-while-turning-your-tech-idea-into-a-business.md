@@ -24,13 +24,23 @@ A good business plan will help you see how you will think about product marketin
 
 References:
 [https://foundr.com/getting-funding-for-your-tech-startup](https://foundr.com/getting-funding-for-your-tech-startup)
+
 [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
+
 [https://smallbizclub.com/startup/creating-a-plan/11-essential-things-to-consider-before-starting-your-own-tech-business/](https://smallbizclub.com/startup/creating-a-plan/11-essential-things-to-consider-before-starting-your-own-tech-business/)
+
 [https://www.businessnewsdaily.com/5-small-business-start-up-costs-options.html](https://www.businessnewsdaily.com/5-small-business-start-up-costs-options.html)
+
 [https://articles.bplans.com/how-to-get-your-business-funded/](https://articles.bplans.com/how-to-get-your-business-funded/)
+
 [https://thinkgrowth.org/7-lessons-from-100-failed-startups-2db31984867a](https://thinkgrowth.org/7-lessons-from-100-failed-startups-2db31984867a)
+
 [https://www.forentrepreneurs.com/startup-killer/](https://www.forentrepreneurs.com/startup-killer/)
+
 [https://www.forbes.com/sites/abdoriani/2019/11/02/a-breakdown-of-key-startup-expenses-for-an-app-idea/](https://www.forbes.com/sites/abdoriani/2019/11/02/a-breakdown-of-key-startup-expenses-for-an-app-idea/)
+
 [https://www.upcounsel.com/blog/how-to-turn-your-invention-ideas-into-products](https://www.upcounsel.com/blog/how-to-turn-your-invention-ideas-into-products)
+
 [https://www.entrepreneur.com/article/225354](https://www.entrepreneur.com/article/225354)
+
 [https://www.themuse.com/advice/show-me-the-money-7-ways-to-get-funding-for-your-business-idea ](https://www.themuse.com/advice/show-me-the-money-7-ways-to-get-funding-for-your-business-idea )
