@@ -3,7 +3,7 @@ layout: post
 title: How To Hire Top Offshore Developers?
 subtitle: Hiring the right software developer for your projects
 bigimg: /img/path.jpg
-tags: [start-up, microservices, monolith, cloud, distributed computing]
+tags: [start-up, hiring, offshore developers, interview]
 ---
 Particularly in countries like India, Ukraine, and Turkey, outsourcing a remote development team is much cheaper than hiring an in-house team. The average cost of IT outsourcing in India is between $18 and $50 per hour, while similar services in the UK and the US cost between $25 and $250 per hour. This is because freelance software developers are more likely to come from developing countries such as India, Ukraine, or Turkey, and therefore cost much less than local developers. According to a rough estimate, remote developers will cost you 34% less for each local developer. 
 

@@ -3,7 +3,7 @@ layout: post
 title: How to Save Money While Turning Your Tech Idea Into a Business?
 subtitle: Every penny saved by a tech startup goes a long way towards their success
 bigimg: /img/path.jpg
-tags: [start-up, saving, costs]
+tags: [start-up, saving money, costs]
 ---
 
 Starting a start-up is about developing a vision, turning an idea into reality and making your dream come true. How much money can your company make in the best and worst case? You can answer these questions if you want to know whether it is a financially viable start-up or a lifestyle company.
