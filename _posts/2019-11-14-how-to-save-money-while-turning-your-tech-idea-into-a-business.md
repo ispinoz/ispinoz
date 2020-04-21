@@ -22,25 +22,16 @@ A business plan is an essential piece of the financial puzzle, as it explains ex
 
 A good business plan will help you see how you will think about product marketing and make money from your product. Check out our guide to writing your business plans for more information on writing, marketing and business planning for startups. It can take a lot of time and hard work to turn an invention or idea into a profitable product. You need to channel your talents and ingenuity to create an organization you believe in. However, if you are organized and thorough, you can plan your financing and keep your startup budget on track. If you are thinking of starting a new business, you probably already know where to start with your finances.
 
-References:
-[https://foundr.com/getting-funding-for-your-tech-startup](https://foundr.com/getting-funding-for-your-tech-startup)
+**References:**
 
-[https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
-
-[https://smallbizclub.com/startup/creating-a-plan/11-essential-things-to-consider-before-starting-your-own-tech-business/](https://smallbizclub.com/startup/creating-a-plan/11-essential-things-to-consider-before-starting-your-own-tech-business/)
-
-[https://www.businessnewsdaily.com/5-small-business-start-up-costs-options.html](https://www.businessnewsdaily.com/5-small-business-start-up-costs-options.html)
-
-[https://articles.bplans.com/how-to-get-your-business-funded/](https://articles.bplans.com/how-to-get-your-business-funded/)
-
-[https://thinkgrowth.org/7-lessons-from-100-failed-startups-2db31984867a](https://thinkgrowth.org/7-lessons-from-100-failed-startups-2db31984867a)
-
-[https://www.forentrepreneurs.com/startup-killer/](https://www.forentrepreneurs.com/startup-killer/)
-
-[https://www.forbes.com/sites/abdoriani/2019/11/02/a-breakdown-of-key-startup-expenses-for-an-app-idea/](https://www.forbes.com/sites/abdoriani/2019/11/02/a-breakdown-of-key-startup-expenses-for-an-app-idea/)
-
-[https://www.upcounsel.com/blog/how-to-turn-your-invention-ideas-into-products](https://www.upcounsel.com/blog/how-to-turn-your-invention-ideas-into-products)
-
-[https://www.entrepreneur.com/article/225354](https://www.entrepreneur.com/article/225354)
-
-[https://www.themuse.com/advice/show-me-the-money-7-ways-to-get-funding-for-your-business-idea ](https://www.themuse.com/advice/show-me-the-money-7-ways-to-get-funding-for-your-business-idea )
+* [https://foundr.com/getting-funding-for-your-tech-startup](https://foundr.com/getting-funding-for-your-tech-startup)
+* [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
+* [https://smallbizclub.com/startup/creating-a-plan/11-essential-things-to-consider-before-starting-your-own-tech-business/](https://smallbizclub.com/startup/creating-a-plan/11-essential-things-to-consider-before-starting-your-own-tech-business/)
+* [https://www.businessnewsdaily.com/5-small-business-start-up-costs-options.html](https://www.businessnewsdaily.com/5-small-business-start-up-costs-options.html)
+* [https://articles.bplans.com/how-to-get-your-business-funded/](https://articles.bplans.com/how-to-get-your-business-funded/)
+* [https://thinkgrowth.org/7-lessons-from-100-failed-startups-2db31984867a](https://thinkgrowth.org/7-lessons-from-100-failed-startups-2db31984867a)
+* [https://www.forentrepreneurs.com/startup-killer/](https://www.forentrepreneurs.com/startup-killer/)
+* [https://www.forbes.com/sites/abdoriani/2019/11/02/a-breakdown-of-key-startup-expenses-for-an-app-idea/](https://www.forbes.com/sites/abdoriani/2019/11/02/a-breakdown-of-key-startup-expenses-for-an-app-idea/)
+* [https://www.upcounsel.com/blog/how-to-turn-your-invention-ideas-into-products](https://www.upcounsel.com/blog/how-to-turn-your-invention-ideas-into-products)
+* [https://www.entrepreneur.com/article/225354](https://www.entrepreneur.com/article/225354)
+* [https://www.themuse.com/advice/show-me-the-money-7-ways-to-get-funding-for-your-business-idea ](https://www.themuse.com/advice/show-me-the-money-7-ways-to-get-funding-for-your-business-idea )
