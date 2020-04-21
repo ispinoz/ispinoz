@@ -1,0 +1,33 @@
+---
+layout: post
+title: What Kind of Engineer Should I Hire?
+subtitle: If you hire a non-start-up engineer to work for your start-up, a lot can go wrong.
+tags: [start-up, hiring engineers, company culture]
+---
+
+If you have the luxury of living in a small town in the heart of Silicon Valley with a few hundred people, you will work hard on the product that will build your business and make technical decisions. If you compromise to get things done faster and grow fast, your technical debt will behave presumptuously. Compromises on quality are justified if you want to achieve short-term goals and establish a market as quickly as possible. 
+Identify the problem, find a solution that helps your potential customers get the job done, and work hard to sell that solution.
+
+Of course, not all startups are technological, but since technology is an enabler for businesses, you need to make sure you understand the technical debt in your business. It is hard enough to understand the impact on your future, and especially for the less technical staff in the company it is difficult to understand. Plan it so that one day your company will be extremely successful, not only for you and your employees. If you can't get past the technical debt in the early stages of product development, your start-up will go under. While engineering is critical to a start-up, it can also have pitfalls that can cost you a lot. Choosing the hype of technology can make it difficult to build a product, and if you don't manage it properly, you can sink the start-up. 
+
+If you hire a non-start-up engineer to work for your start-up, a lot can go wrong, especially if that engineer likes to build. Some of the company's best engineers are starting to move to other companies where the code base is more comfortable to work with and the only maintenance engineers remain. Some parts of the code base have become too unmanageable to change, while technical debt accumulates without time or resources budgeted to repay it.  The only practical choice will be to rebuild it from scratch, which very few companies can ever do. If the founders believe that large companies will copy their innovations cheaply and compete with them in the market, they will devote time and effort to creating them in the first place. The technology ecosystem thrives on talent, and simply joining a start-up will not provide that by default. The third way that big tech can kill startups is to hire the best engineers, but if Google, Facebook, or Amazon give their engineers free access, startups will have to scrap. 
+
+I think startups should reassess the growth trajectory of their employees and startups every year. As founders, each year more people looking for a job expand the market for hiring opportunities. As a result, there is no incentive for startups to move from currently booming to currently stagnant and growing companies. According to a recent study by the Center for Software and Technology Policy Research, companies with the best acquisition prospects are among the top developers.  Google, Facebook, Twitter and other giants are willing to pay lavishly to take over start-ups that don't have employees. Facebook, in particular, likes to buy start-ups, sell their products and use their engineers for new projects.
+
+I had lunch with a friend who I had forgotten to look up to at a VC Meetup and who was the technical founder of my company and is now its chairman, and he had the idea. At the last board meeting, the Vice-President for Engineering told me that the root of the problem lay in the fact that our code had accumulated a ton of technical debt and that there was no way to do so today. We were in business because our revenues looked good, but we can't keep up with the rapid changes our customers are making to our platform. I told the board that we needed to change, that the only way to make that change was to rewrite the product. 
+
+In this exclusive interview, Benson talks about the five biggest mistakes he made, what he saw from other founders and how he overcame them to turn things around. Because it is so difficult to recruit talent in the early stages of start-ups, entrepreneurs often invest in expensive engineers who are not suited to the early environment. In particular, non-technical founders are less able to judge candidates who look good on paper, because external engineers and consultants must be called in to interview them for the test.  Benson started Ranker in Los Angeles, where he did not have the best network to find qualified engineers, and he himself lacked the technical skills.
+
+As a technical leader, you will most likely be involved in hiring at least the first engineer to work on code creation before your product hits the market. You will ask yourself, "What kind of engineer do I hire?," and you will probably hire the next hiring to make autonomous changes to your code base, and ideally be the future hiring that will help you grow your business. As CEO, I will probably be looking for someone who fits into the culture of my company or maybe has a particular skill that my product is currently exploiting. 
+
+### References
+
+* [https://money.cnn.com/2011/11/30/technology/startup_acquisitions/index.htm](https://money.cnn.com/2011/11/30/technology/startup_acquisitions/index.htm)
+* [https://nvie.com/posts/why-you-should-consider-technical-debt-to-be-real-debt/](https://nvie.com/posts/why-you-should-consider-technical-debt-to-be-real-debt/)
+* [https://firstround.com/review/The-5-Early-Mistakes-That-Almost-Killed-This-Founders-Startup-and-How-He-Survived/](https://firstround.com/review/The-5-Early-Mistakes-That-Almost-Killed-This-Founders-Startup-and-How-He-Survived/)
+* [https://alediaferia.com/2018/02/14/technical-debt-kills-your-company/](https://alediaferia.com/2018/02/14/technical-debt-kills-your-company/)
+* [https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f](https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f)
+* [https://triplebyte.com/blog/how-to-choose-a-startup-to-work-for](https://triplebyte.com/blog/how-to-choose-a-startup-to-work-for)
+* [https://skelia.com/articles/how-engineering-mistakes-can-kill-your-startup/](https://skelia.com/articles/how-engineering-mistakes-can-kill-your-startup/)
+* [https://m.economictimes.com/small-biz/startups/newsbuzz/big-tech-sets-up-a-kill-zone-for-industry-upstarts/articleshow/66540749.cms](https://m.economictimes.com/small-biz/startups/newsbuzz/big-tech-sets-up-a-kill-zone-for-industry-upstarts/articleshow/66540749.cms)
+* [https://steveblank.com/2011/01/25/startup-suicide-%E2%80%93-rewriting-the-code/](https://steveblank.com/2011/01/25/startup-suicide-%E2%80%93-rewriting-the-code/)
