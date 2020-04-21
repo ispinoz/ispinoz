@@ -22,7 +22,7 @@ A business plan is an essential piece of the financial puzzle, as it explains ex
 
 A good business plan will help you see how you will think about product marketing and make money from your product. Check out our guide to writing your business plans for more information on writing, marketing and business planning for startups. It can take a lot of time and hard work to turn an invention or idea into a profitable product. You need to channel your talents and ingenuity to create an organization you believe in. However, if you are organized and thorough, you can plan your financing and keep your startup budget on track. If you are thinking of starting a new business, you probably already know where to start with your finances.
 
-**References:**
+### References
 
 * [https://foundr.com/getting-funding-for-your-tech-startup](https://foundr.com/getting-funding-for-your-tech-startup)
 * [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
