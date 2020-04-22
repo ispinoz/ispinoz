@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Offshore Development Tips: How To Build In Quality From Day One?
+title: "Offshore Development Tips: How To Build In Quality From Day One?"
 bigimg: /img/path.jpg
 tags: [offshore, quality, software development, start-up]
 ---

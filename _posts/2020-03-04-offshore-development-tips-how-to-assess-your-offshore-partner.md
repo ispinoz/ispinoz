@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Offshore Development Tips: How To Assess Your Offshore Partner?
+title: "Offshore Development Tips: How To Assess Your Offshore Partner?"
 bigimg: /img/path.jpg
 tags: [offshore, quality, software development, start-up]
 ---
