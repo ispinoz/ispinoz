@@ -46,4 +46,4 @@ With more things moving in and out of the cloud over the next few weeks, it is c
 * [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
 * [https://www.forbes.com/sites/bernardmarr/2020/03/17/how-the-covid-19-pandemic-is-fast-tracking-digital-transformation-in-companies/](https://www.forbes.com/sites/bernardmarr/2020/03/17/how-the-covid-19-pandemic-is-fast-tracking-digital-transformation-in-companies/)
 * [https://www.riskiq.com/blog/external-threat-management/covid19-remote-workforce-checklist/](https://www.riskiq.com/blog/external-threat-management/covid19-remote-workforce-checklist/)
-https://community.connection.com/secure-remote-access-in-the-age-of-covid-19/
+* [https://community.connection.com/secure-remote-access-in-the-age-of-covid-19/](https://community.connection.com/secure-remote-access-in-the-age-of-covid-19/)
