@@ -2,7 +2,7 @@
 layout: post
 title: Managing Remote Software Development Teams Efficiently
 bigimg: /img/path.jpg
-tags: [nearshore, start-up]
+tags: [nearshore, remote working, remote teams]
 ---
 One of the challenges of managing and working within a remote team involves choosing the right software solution to increase collaboration and productivity.
 
