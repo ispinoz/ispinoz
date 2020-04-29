@@ -18,14 +18,14 @@ Calculating the revenue left over from the total profit after deducting the pric
 
 ### References
 
-* [https://www.repsly.com/blog/consumer-goods/pricing-strategies-what-works-best-for-your-business](https://www.repsly.com/blog/consumer-goods/pricing-strategies-what-works-best-for-your-business)
-* [https://www.referralcandy.com/blog/pricing-tactics/](https://www.referralcandy.com/blog/pricing-tactics/)
+* [https://www.repsly.com/blog/consumer-goods/pricing-strategies-what-works-best-for-your-business](https://www.repsly.com/blog/consumer-goods/pricing-strategies-what-works-best-for-your-business){:rel="nofollow"}
+* [https://www.referralcandy.com/blog/pricing-tactics/](https://www.referralcandy.com/blog/pricing-tactics/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/how-to-price-a-new-service-product-dcbfbccf00cf](https://blog.refineri.co.uk/how-to-price-a-new-service-product-dcbfbccf00cf)
-* [https://www.bdc.ca/en/articles-tools/marketing-sales-export/marketing/pages/pricing-5-common-strategies.aspx](https://www.bdc.ca/en/articles-tools/marketing-sales-export/marketing/pages/pricing-5-common-strategies.aspx)
-* [https://optinmonster.com/how-to-price-a-product/](https://optinmonster.com/how-to-price-a-product/)
-* [https://managementhelp.org/marketing/pricing.htm](https://managementhelp.org/marketing/pricing.htm)
-* [https://fi.co/insight/how-to-find-test-the-best-price-for-your-product](https://fi.co/insight/how-to-find-test-the-best-price-for-your-product)
-* [https://www.patriotsoftware.com/blog/accounting/how-pricing-services-strategies-models-formula/](https://www.patriotsoftware.com/blog/accounting/how-pricing-services-strategies-models-formula/)
-* [https://blog.hubspot.com/sales/pricing-strategy](https://blog.hubspot.com/sales/pricing-strategy)
-* [https://wisemerchant.com/ecommerce/product-pricing-strategy](https://wisemerchant.com/ecommerce/product-pricing-strategy)
-* [https://www.inc.com/guides/price-your-products.html](https://www.inc.com/guides/price-your-products.html)
+* [https://www.bdc.ca/en/articles-tools/marketing-sales-export/marketing/pages/pricing-5-common-strategies.aspx](https://www.bdc.ca/en/articles-tools/marketing-sales-export/marketing/pages/pricing-5-common-strategies.aspx){:rel="nofollow"}
+* [https://optinmonster.com/how-to-price-a-product/](https://optinmonster.com/how-to-price-a-product/){:rel="nofollow"}
+* [https://managementhelp.org/marketing/pricing.htm](https://managementhelp.org/marketing/pricing.htm){:rel="nofollow"}
+* [https://fi.co/insight/how-to-find-test-the-best-price-for-your-product](https://fi.co/insight/how-to-find-test-the-best-price-for-your-product){:rel="nofollow"}
+* [https://www.patriotsoftware.com/blog/accounting/how-pricing-services-strategies-models-formula/](https://www.patriotsoftware.com/blog/accounting/how-pricing-services-strategies-models-formula/){:rel="nofollow"}
+* [https://blog.hubspot.com/sales/pricing-strategy](https://blog.hubspot.com/sales/pricing-strategy){:rel="nofollow"}
+* [https://wisemerchant.com/ecommerce/product-pricing-strategy](https://wisemerchant.com/ecommerce/product-pricing-strategy){:rel="nofollow"}
+* [https://www.inc.com/guides/price-your-products.html](https://www.inc.com/guides/price-your-products.html){:rel="nofollow"}

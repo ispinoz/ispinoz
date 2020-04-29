@@ -28,9 +28,9 @@ If you want to optimize your spending, choose an ODC target based on the develop
 
 ### References
 
-* [https://www.coworker.com/mag/how-nearshore-outsourcing-can-help-your-startup-success](https://www.coworker.com/mag/how-nearshore-outsourcing-can-help-your-startup-success)
-* [https://infinigeek.com/what-is-the-difference-between-offshore-and-nearshore-software-development/](https://infinigeek.com/what-is-the-difference-between-offshore-and-nearshore-software-development/)
-* [https://mobilunity.ch/blog/how-to-hire-nearshore-team-in-ukraine-6-pros/](https://mobilunity.ch/blog/how-to-hire-nearshore-team-in-ukraine-6-pros/)
-* [https://youteam.io/blog/cost-factors-to-consider-for-offshore-development-center-odc-set-up/](https://youteam.io/blog/cost-factors-to-consider-for-offshore-development-center-odc-set-up/)
-* [https://savvycomsoftware.com/offshore-development-centre-how-to-set-it-up/](https://savvycomsoftware.com/offshore-development-centre-how-to-set-it-up/)
-* [https://igniteoutsourcing.com/it-outsourcing/setting-up-offshore-development-center/](https://igniteoutsourcing.com/it-outsourcing/setting-up-offshore-development-center/)
+* [https://www.coworker.com/mag/how-nearshore-outsourcing-can-help-your-startup-success](https://www.coworker.com/mag/how-nearshore-outsourcing-can-help-your-startup-success){:rel="nofollow"}
+* [https://infinigeek.com/what-is-the-difference-between-offshore-and-nearshore-software-development/](https://infinigeek.com/what-is-the-difference-between-offshore-and-nearshore-software-development/){:rel="nofollow"}
+* [https://mobilunity.ch/blog/how-to-hire-nearshore-team-in-ukraine-6-pros/](https://mobilunity.ch/blog/how-to-hire-nearshore-team-in-ukraine-6-pros/){:rel="nofollow"}
+* [https://youteam.io/blog/cost-factors-to-consider-for-offshore-development-center-odc-set-up/](https://youteam.io/blog/cost-factors-to-consider-for-offshore-development-center-odc-set-up/){:rel="nofollow"}
+* [https://savvycomsoftware.com/offshore-development-centre-how-to-set-it-up/](https://savvycomsoftware.com/offshore-development-centre-how-to-set-it-up/){:rel="nofollow"}
+* [https://igniteoutsourcing.com/it-outsourcing/setting-up-offshore-development-center/](https://igniteoutsourcing.com/it-outsourcing/setting-up-offshore-development-center/){:rel="nofollow"}

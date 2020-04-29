@@ -38,11 +38,11 @@ Find a tailor-made development team for offshore software with a long-term offsh
 
 ### References
 
-* [https://www.daxx.com/blog/offshore-team/offshore-developers-checklist](https://www.daxx.com/blog/offshore-team/offshore-developers-checklist)
-* [https://wearefram.com/offshore-development-team/](https://wearefram.com/offshore-development-team/)
+* [https://www.daxx.com/blog/offshore-team/offshore-developers-checklist](https://www.daxx.com/blog/offshore-team/offshore-developers-checklist){:rel="nofollow"}
+* [https://wearefram.com/offshore-development-team/](https://wearefram.com/offshore-development-team/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
-* [https://www.macronimous.com/resources/articles/finding-the-right-offshore-outsourcing-development-partner-in-india](https://www.macronimous.com/resources/articles/finding-the-right-offshore-outsourcing-development-partner-in-india)
-* [https://blog.commlabindia.com/elearning-design/offshore-partner-elearning-tips-partnership](https://blog.commlabindia.com/elearning-design/offshore-partner-elearning-tips-partnership)
-* [https://www.riserpo.com/2018/10/29/rise-staffing-group-recruiting-services/](https://www.riserpo.com/2018/10/29/rise-staffing-group-recruiting-services/)
-* [https://www.business.com/articles/7-tips-for-evaluating-outsourcing-partner/](https://www.business.com/articles/7-tips-for-evaluating-outsourcing-partner/)
-* [https://smartbear.com/blog/test-and-monitor/5-keys-to-maintaining-a-successful-offshore-develo/](https://smartbear.com/blog/test-and-monitor/5-keys-to-maintaining-a-successful-offshore-develo/)
+* [https://www.macronimous.com/resources/articles/finding-the-right-offshore-outsourcing-development-partner-in-india](https://www.macronimous.com/resources/articles/finding-the-right-offshore-outsourcing-development-partner-in-india){:rel="nofollow"}
+* [https://blog.commlabindia.com/elearning-design/offshore-partner-elearning-tips-partnership](https://blog.commlabindia.com/elearning-design/offshore-partner-elearning-tips-partnership){:rel="nofollow"}
+* [https://www.riserpo.com/2018/10/29/rise-staffing-group-recruiting-services/](https://www.riserpo.com/2018/10/29/rise-staffing-group-recruiting-services/){:rel="nofollow"}
+* [https://www.business.com/articles/7-tips-for-evaluating-outsourcing-partner/](https://www.business.com/articles/7-tips-for-evaluating-outsourcing-partner/){:rel="nofollow"}
+* [https://smartbear.com/blog/test-and-monitor/5-keys-to-maintaining-a-successful-offshore-develo/](https://smartbear.com/blog/test-and-monitor/5-keys-to-maintaining-a-successful-offshore-develo/){:rel="nofollow"}

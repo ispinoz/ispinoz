@@ -34,12 +34,11 @@ Based in Lima, Peru, TechStart was created to address the supply and demand cris
 
 ### References
 
-* [https://www.computerweekly.com/blog/Investigating-Outsourcing/Agile-software-development-demand-could-put-nearshore-IT-in-the-spotlight](https://www.computerweekly.com/blog/Investigating-Outsourcing/Agile-software-development-demand-could-put-nearshore-IT-in-the-spotlight)
-* [https://www.tiempodev.com/blog/advantages-of-nearshore-software-development/](https://www.tiempodev.com/blog/advantages-of-nearshore-software-development/)
-* [https://tech-start.com/nearshore-developers-techstart-nearshore-outsourcing/](https://tech-start.com/nearshore-developers-techstart-nearshore-outsourcing/)
-* [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
-* [https://www.raconteur.net/business-innovation/the-most-attractive-european-countries-for-outsourcing](https://www.raconteur.net/business-innovation/the-most-attractive-european-countries-for-outsourcing)
-* [https://medium.com/@cleverti/brexit-it-why-portugal-is-top-outsourcing-choice-14978e32ac42](https://medium.com/@cleverti/brexit-it-why-portugal-is-top-outsourcing-choice-14978e32ac42)
-* [https://www.digitalknights.co/blog/offshore-nearshore-software-development-trends-2020](https://www.digitalknights.co/blog/offshore-nearshore-software-development-trends-2020)
-* [https://www.mobileappdaily.com/nearshore-software-development-trend](https://www.mobileappdaily.com/nearshore-software-development-trend)
- 
+* [https://www.computerweekly.com/blog/Investigating-Outsourcing/Agile-software-development-demand-could-put-nearshore-IT-in-the-spotlight](https://www.computerweekly.com/blog/Investigating-Outsourcing/Agile-software-development-demand-could-put-nearshore-IT-in-the-spotlight){:rel="nofollow"}
+* [https://www.tiempodev.com/blog/advantages-of-nearshore-software-development/](https://www.tiempodev.com/blog/advantages-of-nearshore-software-development/){:rel="nofollow"}
+* [https://tech-start.com/nearshore-developers-techstart-nearshore-outsourcing/](https://tech-start.com/nearshore-developers-techstart-nearshore-outsourcing/){:rel="nofollow"}
+* [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e){:rel="nofollow"}
+* [https://www.raconteur.net/business-innovation/the-most-attractive-european-countries-for-outsourcing](https://www.raconteur.net/business-innovation/the-most-attractive-european-countries-for-outsourcing){:rel="nofollow"}
+* [https://medium.com/@cleverti/brexit-it-why-portugal-is-top-outsourcing-choice-14978e32ac42](https://medium.com/@cleverti/brexit-it-why-portugal-is-top-outsourcing-choice-14978e32ac42){:rel="nofollow"}
+* [https://www.digitalknights.co/blog/offshore-nearshore-software-development-trends-2020](https://www.digitalknights.co/blog/offshore-nearshore-software-development-trends-2020){:rel="nofollow"}
+* [https://www.mobileappdaily.com/nearshore-software-development-trend](https://www.mobileappdaily.com/nearshore-software-development-trend){:rel="nofollow"}

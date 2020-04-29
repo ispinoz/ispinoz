@@ -38,12 +38,12 @@ With more things moving in and out of the cloud over the next few weeks, it is c
 
 ### References
 
-* [https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html](https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html)
-* [https://www.cio.com/article/3532812/covid-19s-impact-on-the-enterprise-and-remote-work.html](https://www.cio.com/article/3532812/covid-19s-impact-on-the-enterprise-and-remote-work.html)
-* [https://www.silentsector.com/blog/covid-19-remote-workforce-vpn-saas](https://www.silentsector.com/blog/covid-19-remote-workforce-vpn-saas)
-* [https://www.asisonline.org/security-management-magazine/latest-news/online-exclusives/2020/remote-work-considerations-in-the-covid19-age/](https://www.asisonline.org/security-management-magazine/latest-news/online-exclusives/2020/remote-work-considerations-in-the-covid19-age/)
-* [https://www.information-age.com/covid-19-remote-working-sparks-security-fears-for-most-decision-makers-123488864/](https://www.information-age.com/covid-19-remote-working-sparks-security-fears-for-most-decision-makers-123488864/)
+* [https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html](https://www.fireeye.com/blog/executive-perspective/2020/03/remote-work-in-an-age-of-covid-19-threat-modeling-the-risks.html){:rel="nofollow"}
+* [https://www.cio.com/article/3532812/covid-19s-impact-on-the-enterprise-and-remote-work.html](https://www.cio.com/article/3532812/covid-19s-impact-on-the-enterprise-and-remote-work.html){:rel="nofollow"}
+* [https://www.silentsector.com/blog/covid-19-remote-workforce-vpn-saas](https://www.silentsector.com/blog/covid-19-remote-workforce-vpn-saas){:rel="nofollow"}
+* [https://www.asisonline.org/security-management-magazine/latest-news/online-exclusives/2020/remote-work-considerations-in-the-covid19-age/](https://www.asisonline.org/security-management-magazine/latest-news/online-exclusives/2020/remote-work-considerations-in-the-covid19-age/){:rel="nofollow"}
+* [https://www.information-age.com/covid-19-remote-working-sparks-security-fears-for-most-decision-makers-123488864/](https://www.information-age.com/covid-19-remote-working-sparks-security-fears-for-most-decision-makers-123488864/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
-* [https://www.forbes.com/sites/bernardmarr/2020/03/17/how-the-covid-19-pandemic-is-fast-tracking-digital-transformation-in-companies/](https://www.forbes.com/sites/bernardmarr/2020/03/17/how-the-covid-19-pandemic-is-fast-tracking-digital-transformation-in-companies/)
-* [https://www.riskiq.com/blog/external-threat-management/covid19-remote-workforce-checklist/](https://www.riskiq.com/blog/external-threat-management/covid19-remote-workforce-checklist/)
-* [https://community.connection.com/secure-remote-access-in-the-age-of-covid-19/](https://community.connection.com/secure-remote-access-in-the-age-of-covid-19/)
+* [https://www.forbes.com/sites/bernardmarr/2020/03/17/how-the-covid-19-pandemic-is-fast-tracking-digital-transformation-in-companies/](https://www.forbes.com/sites/bernardmarr/2020/03/17/how-the-covid-19-pandemic-is-fast-tracking-digital-transformation-in-companies/){:rel="nofollow"}
+* [https://www.riskiq.com/blog/external-threat-management/covid19-remote-workforce-checklist/](https://www.riskiq.com/blog/external-threat-management/covid19-remote-workforce-checklist/){:rel="nofollow"}
+* [https://community.connection.com/secure-remote-access-in-the-age-of-covid-19/](https://community.connection.com/secure-remote-access-in-the-age-of-covid-19/){:rel="nofollow"}

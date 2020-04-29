@@ -17,12 +17,12 @@ Many organizations on an agile scaling trip also take the opportunity to adopt a
 
 ### References
 
-* [https://www.comakeit.com/blog/distributed-development-team-setting-up-and-scaling-part-1/](https://www.comakeit.com/blog/distributed-development-team-setting-up-and-scaling-part-1/)
-* [https://clearcode.cc/blog/agile-manage-distributed-development-team/](https://clearcode.cc/blog/agile-manage-distributed-development-team/)
-* [https://firstlinesoftware.com/170-achieving-distributed-development-success-by-adapting-agile-for-multi-site-development-teams/print/](https://firstlinesoftware.com/170-achieving-distributed-development-success-by-adapting-agile-for-multi-site-development-teams/print/)
-* [https://www.solutionsiq.com/resource/blog-post/5-considerations-for-scaling-agility-across-a-distributed-enterprise/](https://www.solutionsiq.com/resource/blog-post/5-considerations-for-scaling-agility-across-a-distributed-enterprise/)
-* [https://www.atlassian.com/blog/software-teams/challenges-scaling-software-development-teams-globally-part-1](https://www.atlassian.com/blog/software-teams/challenges-scaling-software-development-teams-globally-part-1)
-* [https://aimconsulting.com/insights/blog/12-best-practices-distributed-development-teams-using-agile-scrum-methodologies/](https://aimconsulting.com/insights/blog/12-best-practices-distributed-development-teams-using-agile-scrum-methodologies/)
+* [https://www.comakeit.com/blog/distributed-development-team-setting-up-and-scaling-part-1/](https://www.comakeit.com/blog/distributed-development-team-setting-up-and-scaling-part-1/){:rel="nofollow"}
+* [https://clearcode.cc/blog/agile-manage-distributed-development-team/](https://clearcode.cc/blog/agile-manage-distributed-development-team/){:rel="nofollow"}
+* [https://firstlinesoftware.com/170-achieving-distributed-development-success-by-adapting-agile-for-multi-site-development-teams/print/](https://firstlinesoftware.com/170-achieving-distributed-development-success-by-adapting-agile-for-multi-site-development-teams/print/){:rel="nofollow"}
+* [https://www.solutionsiq.com/resource/blog-post/5-considerations-for-scaling-agility-across-a-distributed-enterprise/](https://www.solutionsiq.com/resource/blog-post/5-considerations-for-scaling-agility-across-a-distributed-enterprise/){:rel="nofollow"}
+* [https://www.atlassian.com/blog/software-teams/challenges-scaling-software-development-teams-globally-part-1](https://www.atlassian.com/blog/software-teams/challenges-scaling-software-development-teams-globally-part-1){:rel="nofollow"}
+* [https://aimconsulting.com/insights/blog/12-best-practices-distributed-development-teams-using-agile-scrum-methodologies/](https://aimconsulting.com/insights/blog/12-best-practices-distributed-development-teams-using-agile-scrum-methodologies/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/domain-driven-startup-bb38b3bbd000](https://blog.refineri.co.uk/domain-driven-startup-bb38b3bbd000)
-* [https://www.infoq.com/articles/why-scaling-isnt-working/](https://www.infoq.com/articles/why-scaling-isnt-working/)
-* [https://www.getzephyr.com/insights/techniques-scale-agile-across-project-teams-and-organizations](https://www.getzephyr.com/insights/techniques-scale-agile-across-project-teams-and-organizations)
+* [https://www.infoq.com/articles/why-scaling-isnt-working/](https://www.infoq.com/articles/why-scaling-isnt-working/){:rel="nofollow"}
+* [https://www.getzephyr.com/insights/techniques-scale-agile-across-project-teams-and-organizations](https://www.getzephyr.com/insights/techniques-scale-agile-across-project-teams-and-organizations){:rel="nofollow"}

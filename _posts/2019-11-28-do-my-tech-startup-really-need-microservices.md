@@ -19,9 +19,9 @@ As industry expert Greg Young described in a 2016 speech at the Microservices Co
 
 ### References
 
-* [https://www.hys-enterprise.com/blog/why-and-how-netflix-amazon-and-uber-migrated-to-microservices-learn-from-their-experience](https://www.hys-enterprise.com/blog/why-and-how-netflix-amazon-and-uber-migrated-to-microservices-learn-from-their-experience)
-* [https://adamdrake.com/enough-with-the-microservices.html](https://adamdrake.com/enough-with-the-microservices.html)
+* [https://www.hys-enterprise.com/blog/why-and-how-netflix-amazon-and-uber-migrated-to-microservices-learn-from-their-experience](https://www.hys-enterprise.com/blog/why-and-how-netflix-amazon-and-uber-migrated-to-microservices-learn-from-their-experience){:rel="nofollow"}
+* [https://adamdrake.com/enough-with-the-microservices.html](https://adamdrake.com/enough-with-the-microservices.html){:rel="nofollow"}
 * [https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f](https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f)
-* [https://www.freecodecamp.org/news/monolith-vs-microservices-which-architecture-is-right-for-your-team-bb840319d531](https://www.freecodecamp.org/news/monolith-vs-microservices-which-architecture-is-right-for-your-team-bb840319d531)
-* [https://blog.newrelic.com/technology/microservices-what-they-are-why-to-use-them](https://blog.newrelic.com/technology/microservices-what-they-are-why-to-use-them)
-* [https://www.pcmag.com/news/microservices-what-they-are-and-why-your-business-should-care](https://www.pcmag.com/news/microservices-what-they-are-and-why-your-business-should-care)
+* [https://www.freecodecamp.org/news/monolith-vs-microservices-which-architecture-is-right-for-your-team-bb840319d531](https://www.freecodecamp.org/news/monolith-vs-microservices-which-architecture-is-right-for-your-team-bb840319d531){:rel="nofollow"}
+* [https://blog.newrelic.com/technology/microservices-what-they-are-why-to-use-them](https://blog.newrelic.com/technology/microservices-what-they-are-why-to-use-them){:rel="nofollow"}
+* [https://www.pcmag.com/news/microservices-what-they-are-and-why-your-business-should-care](https://www.pcmag.com/news/microservices-what-they-are-and-why-your-business-should-care){:rel="nofollow"}

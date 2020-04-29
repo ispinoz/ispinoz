@@ -36,14 +36,13 @@ According to Deloitte's Global Outsourcing Survey 2018, "Disruptive outsourcing 
 
 ### References
 
-* [https://www.bairesdev.com/blog/fintech-trend-outsourcing/](https://www.bairesdev.com/blog/fintech-trend-outsourcing/)
+* [https://www.bairesdev.com/blog/fintech-trend-outsourcing/](https://www.bairesdev.com/blog/fintech-trend-outsourcing/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/how-to-price-a-new-service-product-dcbfbccf00cf](https://blog.refineri.co.uk/how-to-price-a-new-service-product-dcbfbccf00cf)
-* [https://www.aalpha.net/blog/fintech-app-development-outsourcing-benefits/](https://www.aalpha.net/blog/fintech-app-development-outsourcing-benefits/)
-* [https://medium.com/@fintechvietnam.info/5-benefits-outsourcing-software-development-services-brings-to-fintech-business-c5bee4754158](https://medium.com/@fintechvietnam.info/5-benefits-outsourcing-software-development-services-brings-to-fintech-business-c5bee4754158)
-* [https://sunscrapers.com/blog/how-to-scale-fintech-products-with-outsourced-teams/](https://sunscrapers.com/blog/how-to-scale-fintech-products-with-outsourced-teams/)
-* [https://techbullion.com/outsourcing-technology-trends-predictions-fintech-companies-2017-beyond/](https://techbullion.com/outsourcing-technology-trends-predictions-fintech-companies-2017-beyond/)
-* [https://binariks.com/blog/why-fintech-companies-should-outsource-their-tech-needs/](https://binariks.com/blog/why-fintech-companies-should-outsource-their-tech-needs/)
-* [https://www.paymentssource.com/opinion/fast-moving-technology-increases-the-need-for-outsourcing](https://www.paymentssource.com/opinion/fast-moving-technology-increases-the-need-for-outsourcing)
-* [https://distillery.com/blog/5-ways-software-outsourcing-helps-fintech-startups/](https://distillery.com/blog/5-ways-software-outsourcing-helps-fintech-startups/)
-* [https://www.yourteaminindia.com/blog/fintech-businesses-leverage-outsourcing-software-development/](https://www.yourteaminindia.com/blog/fintech-businesses-leverage-outsourcing-software-development/)
-
+* [https://www.aalpha.net/blog/fintech-app-development-outsourcing-benefits/](https://www.aalpha.net/blog/fintech-app-development-outsourcing-benefits/){:rel="nofollow"}
+* [https://medium.com/@fintechvietnam.info/5-benefits-outsourcing-software-development-services-brings-to-fintech-business-c5bee4754158](https://medium.com/@fintechvietnam.info/5-benefits-outsourcing-software-development-services-brings-to-fintech-business-c5bee4754158){:rel="nofollow"}
+* [https://sunscrapers.com/blog/how-to-scale-fintech-products-with-outsourced-teams/](https://sunscrapers.com/blog/how-to-scale-fintech-products-with-outsourced-teams/){:rel="nofollow"}
+* [https://techbullion.com/outsourcing-technology-trends-predictions-fintech-companies-2017-beyond/](https://techbullion.com/outsourcing-technology-trends-predictions-fintech-companies-2017-beyond/){:rel="nofollow"}
+* [https://binariks.com/blog/why-fintech-companies-should-outsource-their-tech-needs/](https://binariks.com/blog/why-fintech-companies-should-outsource-their-tech-needs/){:rel="nofollow"}
+* [https://www.paymentssource.com/opinion/fast-moving-technology-increases-the-need-for-outsourcing](https://www.paymentssource.com/opinion/fast-moving-technology-increases-the-need-for-outsourcing){:rel="nofollow"}
+* [https://distillery.com/blog/5-ways-software-outsourcing-helps-fintech-startups/](https://distillery.com/blog/5-ways-software-outsourcing-helps-fintech-startups/){:rel="nofollow"}
+* [https://www.yourteaminindia.com/blog/fintech-businesses-leverage-outsourcing-software-development/](https://www.yourteaminindia.com/blog/fintech-businesses-leverage-outsourcing-software-development/){:rel="nofollow"}

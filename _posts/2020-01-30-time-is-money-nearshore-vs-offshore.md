@@ -21,12 +21,12 @@ The onshore team simply cannot compete with the prices of offshore or near-shore
 ### References
 
 * [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](* [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
-* [https://www.tiempodev.com/blog/what-is-the-difference-between-onshore-and-offshore-company/](https://www.tiempodev.com/blog/what-is-the-difference-between-onshore-and-offshore-company/)
-* [https://blog.uruit.com/nearshore-offshore-software-development/](https://blog.uruit.com/nearshore-offshore-software-development/)
-* [https://qarea.com/blog/what-is-the-difference-between-onshore-offshore-and-nearshore-outsourcing](https://qarea.com/blog/what-is-the-difference-between-onshore-offshore-and-nearshore-outsourcing)
-* [https://floridaindependent.com/nearshore-onshore-and-offshore/](https://floridaindependent.com/nearshore-onshore-and-offshore/)
-* [https://resourcecenter.infinit-o.com/blog/resource-center/offshore-nearshore-healthcare](https://resourcecenter.infinit-o.com/blog/resource-center/offshore-nearshore-healthcare)
-* [https://alisher.io/onshore-vs-offshore-software-development-which-ones-for-you/](https://alisher.io/onshore-vs-offshore-software-development-which-ones-for-you/)
-* [https://blauit.com/advantages-of-nearshore-onshore-offshore-outsourcing/](https://blauit.com/advantages-of-nearshore-onshore-offshore-outsourcing/)
-* [https://www.sygmatechnology.com/blog/nearshore-vs-offshore-software-development](https://www.sygmatechnology.com/blog/nearshore-vs-offshore-software-development)
-* [https://agilites.com/pros-of-nearshore-software-development-in-eastern-europe.html](https://agilites.com/pros-of-nearshore-software-development-in-eastern-europe.html)
+* [https://www.tiempodev.com/blog/what-is-the-difference-between-onshore-and-offshore-company/](https://www.tiempodev.com/blog/what-is-the-difference-between-onshore-and-offshore-company/){:rel="nofollow"}
+* [https://blog.uruit.com/nearshore-offshore-software-development/](https://blog.uruit.com/nearshore-offshore-software-development/){:rel="nofollow"}
+* [https://qarea.com/blog/what-is-the-difference-between-onshore-offshore-and-nearshore-outsourcing](https://qarea.com/blog/what-is-the-difference-between-onshore-offshore-and-nearshore-outsourcing){:rel="nofollow"}
+* [https://floridaindependent.com/nearshore-onshore-and-offshore/](https://floridaindependent.com/nearshore-onshore-and-offshore/){:rel="nofollow"}
+* [https://resourcecenter.infinit-o.com/blog/resource-center/offshore-nearshore-healthcare](https://resourcecenter.infinit-o.com/blog/resource-center/offshore-nearshore-healthcare){:rel="nofollow"}
+* [https://alisher.io/onshore-vs-offshore-software-development-which-ones-for-you/](https://alisher.io/onshore-vs-offshore-software-development-which-ones-for-you/){:rel="nofollow"}
+* [https://blauit.com/advantages-of-nearshore-onshore-offshore-outsourcing/](https://blauit.com/advantages-of-nearshore-onshore-offshore-outsourcing/){:rel="nofollow"}
+* [https://www.sygmatechnology.com/blog/nearshore-vs-offshore-software-development](https://www.sygmatechnology.com/blog/nearshore-vs-offshore-software-development){:rel="nofollow"}
+* [https://agilites.com/pros-of-nearshore-software-development-in-eastern-europe.html](https://agilites.com/pros-of-nearshore-software-development-in-eastern-europe.html){:rel="nofollow"}

@@ -22,12 +22,12 @@ As a technical leader, you will most likely be involved in hiring at least the f
 
 ### References
 
-* [https://money.cnn.com/2011/11/30/technology/startup_acquisitions/index.htm](https://money.cnn.com/2011/11/30/technology/startup_acquisitions/index.htm)
-* [https://nvie.com/posts/why-you-should-consider-technical-debt-to-be-real-debt/](https://nvie.com/posts/why-you-should-consider-technical-debt-to-be-real-debt/)
-* [https://firstround.com/review/The-5-Early-Mistakes-That-Almost-Killed-This-Founders-Startup-and-How-He-Survived/](https://firstround.com/review/The-5-Early-Mistakes-That-Almost-Killed-This-Founders-Startup-and-How-He-Survived/)
-* [https://alediaferia.com/2018/02/14/technical-debt-kills-your-company/](https://alediaferia.com/2018/02/14/technical-debt-kills-your-company/)
+* [https://money.cnn.com/2011/11/30/technology/startup_acquisitions/index.htm](https://money.cnn.com/2011/11/30/technology/startup_acquisitions/index.htm){:rel="nofollow"}
+* [https://nvie.com/posts/why-you-should-consider-technical-debt-to-be-real-debt/](https://nvie.com/posts/why-you-should-consider-technical-debt-to-be-real-debt/){:rel="nofollow"}
+* [https://firstround.com/review/The-5-Early-Mistakes-That-Almost-Killed-This-Founders-Startup-and-How-He-Survived/](https://firstround.com/review/The-5-Early-Mistakes-That-Almost-Killed-This-Founders-Startup-and-How-He-Survived/){:rel="nofollow"}
+* [https://alediaferia.com/2018/02/14/technical-debt-kills-your-company/](https://alediaferia.com/2018/02/14/technical-debt-kills-your-company/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f](https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f)
-* [https://triplebyte.com/blog/how-to-choose-a-startup-to-work-for](https://triplebyte.com/blog/how-to-choose-a-startup-to-work-for)
-* [https://skelia.com/articles/how-engineering-mistakes-can-kill-your-startup/](https://skelia.com/articles/how-engineering-mistakes-can-kill-your-startup/)
-* [https://m.economictimes.com/small-biz/startups/newsbuzz/big-tech-sets-up-a-kill-zone-for-industry-upstarts/articleshow/66540749.cms](https://m.economictimes.com/small-biz/startups/newsbuzz/big-tech-sets-up-a-kill-zone-for-industry-upstarts/articleshow/66540749.cms)
-* [https://steveblank.com/2011/01/25/startup-suicide-%E2%80%93-rewriting-the-code/](https://steveblank.com/2011/01/25/startup-suicide-%E2%80%93-rewriting-the-code/)
+* [https://triplebyte.com/blog/how-to-choose-a-startup-to-work-for](https://triplebyte.com/blog/how-to-choose-a-startup-to-work-for){:rel="nofollow"}
+* [https://skelia.com/articles/how-engineering-mistakes-can-kill-your-startup/](https://skelia.com/articles/how-engineering-mistakes-can-kill-your-startup/){:rel="nofollow"}
+* [https://m.economictimes.com/small-biz/startups/newsbuzz/big-tech-sets-up-a-kill-zone-for-industry-upstarts/articleshow/66540749.cms](https://m.economictimes.com/small-biz/startups/newsbuzz/big-tech-sets-up-a-kill-zone-for-industry-upstarts/articleshow/66540749.cms){:rel="nofollow"}
+* [https://steveblank.com/2011/01/25/startup-suicide-%E2%80%93-rewriting-the-code/](https://steveblank.com/2011/01/25/startup-suicide-%E2%80%93-rewriting-the-code/){:rel="nofollow"}

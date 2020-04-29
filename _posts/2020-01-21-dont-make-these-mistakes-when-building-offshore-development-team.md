@@ -21,10 +21,10 @@ The magic that makes your product unique and amazing should not be outsourced to
 
 ### References
 
-* [https://fullscale.io/offshore-development/](https://fullscale.io/offshore-development/)
+* [https://fullscale.io/offshore-development/](https://fullscale.io/offshore-development/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
-* [https://www.businessofapps.com/news/how-to-work-with-offshore-teams-17-actionable-tips-to-live-work-by-and-6-expert-testimonies/](https://www.businessofapps.com/news/how-to-work-with-offshore-teams-17-actionable-tips-to-live-work-by-and-6-expert-testimonies/)
-* [https://www.binaryfolks.com/blog/how-to-hire-a-software-development-team](https://www.binaryfolks.com/blog/how-to-hire-a-software-development-team)
-* [https://brainhub.eu/blog/difference-between-nearshore-offshore-onshore-software-development/](https://brainhub.eu/blog/difference-between-nearshore-offshore-onshore-software-development/)
-* [https://www.blog.consultants500.com/web-mobile-design-and-development/6-tips-succeed-building-offshore-team/](https://www.blog.consultants500.com/web-mobile-design-and-development/6-tips-succeed-building-offshore-team/)
-* [https://tweakyourbiz.com/business/outsourcing/offshore-development-center](https://tweakyourbiz.com/business/outsourcing/offshore-development-center)
+* [https://www.businessofapps.com/news/how-to-work-with-offshore-teams-17-actionable-tips-to-live-work-by-and-6-expert-testimonies/](https://www.businessofapps.com/news/how-to-work-with-offshore-teams-17-actionable-tips-to-live-work-by-and-6-expert-testimonies/){:rel="nofollow"}
+* [https://www.binaryfolks.com/blog/how-to-hire-a-software-development-team](https://www.binaryfolks.com/blog/how-to-hire-a-software-development-team){:rel="nofollow"}
+* [https://brainhub.eu/blog/difference-between-nearshore-offshore-onshore-software-development/](https://brainhub.eu/blog/difference-between-nearshore-offshore-onshore-software-development/){:rel="nofollow"}
+* [https://www.blog.consultants500.com/web-mobile-design-and-development/6-tips-succeed-building-offshore-team/](https://www.blog.consultants500.com/web-mobile-design-and-development/6-tips-succeed-building-offshore-team/){:rel="nofollow"}
+* [https://tweakyourbiz.com/business/outsourcing/offshore-development-center](https://tweakyourbiz.com/business/outsourcing/offshore-development-center){:rel="nofollow"}

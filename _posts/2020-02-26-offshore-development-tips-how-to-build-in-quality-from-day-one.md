@@ -36,11 +36,11 @@ Daxx CTO Igor Tkach knows all about the challenges of an offshore development te
 
 ### References
 
-* [https://qubit-labs.com/manage-offshore-software-development-team/](https://qubit-labs.com/manage-offshore-software-development-team/)
-* [https://sunscrapers.com/blog/what-is-offshore-software-development/](https://sunscrapers.com/blog/what-is-offshore-software-development/)
-* [https://www.intellectsoft.net/blog/offshore-software-development/](https://www.intellectsoft.net/blog/offshore-software-development/)
-* [https://stackoverflow.blog/2019/10/01/pitfalls-avoid-outsourcing-software-development/](https://stackoverflow.blog/2019/10/01/pitfalls-avoid-outsourcing-software-development/)
+* [https://qubit-labs.com/manage-offshore-software-development-team/](https://qubit-labs.com/manage-offshore-software-development-team/){:rel="nofollow"}
+* [https://sunscrapers.com/blog/what-is-offshore-software-development/](https://sunscrapers.com/blog/what-is-offshore-software-development/){:rel="nofollow"}
+* [https://www.intellectsoft.net/blog/offshore-software-development/](https://www.intellectsoft.net/blog/offshore-software-development/){:rel="nofollow"}
+* [https://stackoverflow.blog/2019/10/01/pitfalls-avoid-outsourcing-software-development/](https://stackoverflow.blog/2019/10/01/pitfalls-avoid-outsourcing-software-development/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/the-good-way-to-rest-road-to-maturity-2f8014071017](https://blog.refineri.co.uk/the-good-way-to-rest-road-to-maturity-2f8014071017)
-* [https://aimconsulting.com/insights/blog/12-best-practices-distributed-development-teams-using-agile-scrum-methodologies/](https://aimconsulting.com/insights/blog/12-best-practices-distributed-development-teams-using-agile-scrum-methodologies/)
-* [https://www.integrant.com/implement-agile-in-offshore-software-development/](https://www.integrant.com/implement-agile-in-offshore-software-development/)
-* [https://www.daxx.com/blog/outsourcing-ukraine/hire-qa-engineers-in-ukraine](https://www.daxx.com/blog/outsourcing-ukraine/hire-qa-engineers-in-ukraine)
+* [https://aimconsulting.com/insights/blog/12-best-practices-distributed-development-teams-using-agile-scrum-methodologies/](https://aimconsulting.com/insights/blog/12-best-practices-distributed-development-teams-using-agile-scrum-methodologies/){:rel="nofollow"}
+* [https://www.integrant.com/implement-agile-in-offshore-software-development/](https://www.integrant.com/implement-agile-in-offshore-software-development/){:rel="nofollow"}
+* [https://www.daxx.com/blog/outsourcing-ukraine/hire-qa-engineers-in-ukraine](https://www.daxx.com/blog/outsourcing-ukraine/hire-qa-engineers-in-ukraine){:rel="nofollow"}

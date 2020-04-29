@@ -36,11 +36,11 @@ KPs, set up to measure employee performance, should be consistent with the organ
 
 ### References
 
-* [https://pounditbusiness.com/blogs/news/4-tips-to-ensure-your-remote-teams-productivity-is-on-track](https://pounditbusiness.com/blogs/news/4-tips-to-ensure-your-remote-teams-productivity-is-on-track)
-* [https://talkingtalent.prosky.co/articles/the-best-ways-to-evaluate-remote-employees](https://talkingtalent.prosky.co/articles/the-best-ways-to-evaluate-remote-employees)
-* [https://www.repsly.com/blog/consumer-goods/kpis-for-measuring-remote-employee-performance-and-accountability](https://www.repsly.com/blog/consumer-goods/kpis-for-measuring-remote-employee-performance-and-accountability)
-* [https://blog.capterra.com/managing-remote-teams-effectively/](https://blog.capterra.com/managing-remote-teams-effectively/)
+* [https://pounditbusiness.com/blogs/news/4-tips-to-ensure-your-remote-teams-productivity-is-on-track](https://pounditbusiness.com/blogs/news/4-tips-to-ensure-your-remote-teams-productivity-is-on-track){:rel="nofollow"}
+* [https://talkingtalent.prosky.co/articles/the-best-ways-to-evaluate-remote-employees](https://talkingtalent.prosky.co/articles/the-best-ways-to-evaluate-remote-employees){:rel="nofollow"}
+* [https://www.repsly.com/blog/consumer-goods/kpis-for-measuring-remote-employee-performance-and-accountability](https://www.repsly.com/blog/consumer-goods/kpis-for-measuring-remote-employee-performance-and-accountability){:rel="nofollow"}
+* [https://blog.capterra.com/managing-remote-teams-effectively/](https://blog.capterra.com/managing-remote-teams-effectively/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e](https://blog.refineri.co.uk/somethings-very-broken-with-tech-startup-consulting-today-c79ba528886e)
-* [https://gethppy.com/employee-engagement/10-must-dos-manage-day-day-employee-performance](https://gethppy.com/employee-engagement/10-must-dos-manage-day-day-employee-performance)
-* [https://blog.flock.com/track-performance-virtual-teams](https://blog.flock.com/track-performance-virtual-teams)
-* [https://nelsonjobs.com/how-to-measure-productivity-on-a-remote-team/](https://nelsonjobs.com/how-to-measure-productivity-on-a-remote-team/)
+* [https://gethppy.com/employee-engagement/10-must-dos-manage-day-day-employee-performance](https://gethppy.com/employee-engagement/10-must-dos-manage-day-day-employee-performance){:rel="nofollow"}
+* [https://blog.flock.com/track-performance-virtual-teams](https://blog.flock.com/track-performance-virtual-teams){:rel="nofollow"}
+* [https://nelsonjobs.com/how-to-measure-productivity-on-a-remote-team/](https://nelsonjobs.com/how-to-measure-productivity-on-a-remote-team/){:rel="nofollow"}

@@ -36,13 +36,13 @@ API tests are used by software testers because they allow them to verify require
 Using specialized automated test tools, it is possible to retrieve data to compare actual results with expected results and then create detailed test reports. Many test automation tools offer recording features that allow users to interactively record and replay their actions to compare the actual result with the expected result. 
 
 ### References
-* [https://dzone.com/articles/7-quick-steps-to-become-a-great-automation-testing](https://dzone.com/articles/7-quick-steps-to-become-a-great-automation-testing)
-* [http://soltbeer.ru/7hteiv/what-does-a-software-tester-need-to-know.html](http://soltbeer.ru/7hteiv/what-does-a-software-tester-need-to-know.html)
-* [https://www.macadamian.com/learn/7-ways-learning-python-will-improve-software-testing/](https://www.macadamian.com/learn/7-ways-learning-python-will-improve-software-testing/)
-* [https://www.getzephyr.com/insights/6-ways-improve-your-agile-automated-testing-process](https://www.getzephyr.com/insights/6-ways-improve-your-agile-automated-testing-process)
-* [https://www.browserstack.com/guide/automation-testing-tutorial](https://www.browserstack.com/guide/automation-testing-tutorial)
+* [https://dzone.com/articles/7-quick-steps-to-become-a-great-automation-testing](https://dzone.com/articles/7-quick-steps-to-become-a-great-automation-testing){:rel="nofollow"}
+* [http://soltbeer.ru/7hteiv/what-does-a-software-tester-need-to-know.html](http://soltbeer.ru/7hteiv/what-does-a-software-tester-need-to-know.html){:rel="nofollow"}
+* [https://www.macadamian.com/learn/7-ways-learning-python-will-improve-software-testing/](https://www.macadamian.com/learn/7-ways-learning-python-will-improve-software-testing/){:rel="nofollow"}
+* [https://www.getzephyr.com/insights/6-ways-improve-your-agile-automated-testing-process](https://www.getzephyr.com/insights/6-ways-improve-your-agile-automated-testing-process){:rel="nofollow"}
+* [https://www.browserstack.com/guide/automation-testing-tutorial](https://www.browserstack.com/guide/automation-testing-tutorial){:rel="nofollow"}
 * [https://blog.refineri.co.uk/the-good-way-to-rest-core-values-and-mechanics-a51598ce83db](https://blog.refineri.co.uk/the-good-way-to-rest-core-values-and-mechanics-a51598ce83db)
-* [https://sqa.stackexchange.com/questions/42003/why-do-many-jobs-describe-automation-but-then-require-extensive-manual-testing](https://sqa.stackexchange.com/questions/42003/why-do-many-jobs-describe-automation-but-then-require-extensive-manual-testing)
-* [https://en.wikipedia.org/wiki/Test_automation](https://en.wikipedia.org/wiki/Test_automation)
-* [https://meu.solutions/getting-started-on-automated-testing-let-start-with-what-why-and-when-questions/](https://meu.solutions/getting-started-on-automated-testing-let-start-with-what-why-and-when-questions/)
+* [https://sqa.stackexchange.com/questions/42003/why-do-many-jobs-describe-automation-but-then-require-extensive-manual-testing](https://sqa.stackexchange.com/questions/42003/why-do-many-jobs-describe-automation-but-then-require-extensive-manual-testing){:rel="nofollow"}
+* [https://en.wikipedia.org/wiki/Test_automation](https://en.wikipedia.org/wiki/Test_automation){:rel="nofollow"}
+* [https://meu.solutions/getting-started-on-automated-testing-let-start-with-what-why-and-when-questions/](https://meu.solutions/getting-started-on-automated-testing-let-start-with-what-why-and-when-questions/){:rel="nofollow"}
  

@@ -37,9 +37,9 @@ The question is, does your start-up need permanent employees right away, or can 
 ### References
 
 * [https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f](https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f)
-* [https://blog.venturepact.com/startups-guide-wireframes-2/](https://blog.venturepact.com/startups-guide-wireframes-2/)
-* [https://thenextweb.com/dd/2014/02/01/4-steps-starting-web-business-without-knowing-thing-coding/](https://thenextweb.com/dd/2014/02/01/4-steps-starting-web-business-without-knowing-thing-coding/)
-* [https://silicon.nyc/prototyping-wireframing-tools/](https://silicon.nyc/prototyping-wireframing-tools/)
-* [https://appinventiv.com/blog/wireframe-a-phase-of-mobile-app-design-you-cant-miss-out/](https://appinventiv.com/blog/wireframe-a-phase-of-mobile-app-design-you-cant-miss-out/)
-* [https://www.boldare.com/blog/digital-product-prototyping-whats-it-all-about/](https://www.boldare.com/blog/digital-product-prototyping-whats-it-all-about/)
-* [https://cxl.com/blog/wireframes/](https://cxl.com/blog/wireframes/)
+* [https://blog.venturepact.com/startups-guide-wireframes-2/](https://blog.venturepact.com/startups-guide-wireframes-2/){:rel="nofollow"}
+* [https://thenextweb.com/dd/2014/02/01/4-steps-starting-web-business-without-knowing-thing-coding/](https://thenextweb.com/dd/2014/02/01/4-steps-starting-web-business-without-knowing-thing-coding/){:rel="nofollow"}
+* [https://silicon.nyc/prototyping-wireframing-tools/](https://silicon.nyc/prototyping-wireframing-tools/){:rel="nofollow"}
+* [https://appinventiv.com/blog/wireframe-a-phase-of-mobile-app-design-you-cant-miss-out/](https://appinventiv.com/blog/wireframe-a-phase-of-mobile-app-design-you-cant-miss-out/){:rel="nofollow"}
+* [https://www.boldare.com/blog/digital-product-prototyping-whats-it-all-about/](https://www.boldare.com/blog/digital-product-prototyping-whats-it-all-about/){:rel="nofollow"}
+* [https://cxl.com/blog/wireframes/](https://cxl.com/blog/wireframes/){:rel="nofollow"}

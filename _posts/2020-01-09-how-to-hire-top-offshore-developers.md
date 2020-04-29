@@ -22,11 +22,11 @@ Offshore software development involves delegating tasks to developers outside th
 
 ### References
 
-* [https://diceus.com/hire-offshore-developers/](https://diceus.com/hire-offshore-developers/)
-* [https://thescalers.com/how-to-hire-offshore-developers/](https://thescalers.com/how-to-hire-offshore-developers/)
-* [https://ddi-dev.com/blog/it-news/offshore-developer-rates-what-are-the-best-countries-for-hiring-offshore-developers/](https://ddi-dev.com/blog/it-news/offshore-developer-rates-what-are-the-best-countries-for-hiring-offshore-developers/)
-* [https://youteam.io/blog/hiring-an-offshore-development-team-checklist-for-startup-founders/](https://youteam.io/blog/hiring-an-offshore-development-team-checklist-for-startup-founders/)
-* [https://www.mindinventory.com/blog/benefits-of-hiring-offshore-app-developers/](https://www.mindinventory.com/blog/benefits-of-hiring-offshore-app-developers/)
-* [https://www.weblineindia.com/blog/offshore-software-development-services-a-complete-guide-for-startups/](https://www.weblineindia.com/blog/offshore-software-development-services-a-complete-guide-for-startups/)
-* [https://www.tpptechnology.com/blog/hire-offshore-software-developers-how-to-do-it-the-right-way/](https://www.tpptechnology.com/blog/hire-offshore-software-developers-how-to-do-it-the-right-way/)
+* [https://diceus.com/hire-offshore-developers/](https://diceus.com/hire-offshore-developers/){:rel="nofollow"}
+* [https://thescalers.com/how-to-hire-offshore-developers/](https://thescalers.com/how-to-hire-offshore-developers/){:rel="nofollow"}
+* [https://ddi-dev.com/blog/it-news/offshore-developer-rates-what-are-the-best-countries-for-hiring-offshore-developers/](https://ddi-dev.com/blog/it-news/offshore-developer-rates-what-are-the-best-countries-for-hiring-offshore-developers/){:rel="nofollow"}
+* [https://youteam.io/blog/hiring-an-offshore-development-team-checklist-for-startup-founders/](https://youteam.io/blog/hiring-an-offshore-development-team-checklist-for-startup-founders/){:rel="nofollow"}
+* [https://www.mindinventory.com/blog/benefits-of-hiring-offshore-app-developers/](https://www.mindinventory.com/blog/benefits-of-hiring-offshore-app-developers/){:rel="nofollow"}
+* [https://www.weblineindia.com/blog/offshore-software-development-services-a-complete-guide-for-startups/](https://www.weblineindia.com/blog/offshore-software-development-services-a-complete-guide-for-startups/){:rel="nofollow"}
+* [https://www.tpptechnology.com/blog/hire-offshore-software-developers-how-to-do-it-the-right-way/](https://www.tpptechnology.com/blog/hire-offshore-software-developers-how-to-do-it-the-right-way/){:rel="nofollow"}
 * [https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f](https://blog.refineri.co.uk/startups-curb-the-enthusiasm-of-your-tech-guy-1bdf162f052f)

@@ -64,17 +64,15 @@ In fact, according to a 2018 study on the state of remote work, 21 % of freelanc
 
 ### References
 
-* [https://kanbanzone.com/2019/how-to-successfully-manage-remote-teams/](https://kanbanzone.com/2019/how-to-successfully-manage-remote-teams/)
-* [https://www.gun.io/blog/how-to-effictively-lead-a-remote-team](https://www.gun.io/blog/how-to-effictively-lead-a-remote-team)
-* [https://monday.com/s/managing-remote-teams](https://monday.com/s/managing-remote-teams)
+* [https://kanbanzone.com/2019/how-to-successfully-manage-remote-teams/](https://kanbanzone.com/2019/how-to-successfully-manage-remote-teams/){:rel="nofollow"}
+* [https://www.gun.io/blog/how-to-effictively-lead-a-remote-team](https://www.gun.io/blog/how-to-effictively-lead-a-remote-team){:rel="nofollow"}
+* [https://monday.com/s/managing-remote-teams](https://monday.com/s/managing-remote-teams){:rel="nofollow"}
 * [https://blog.refineri.co.uk/business-ideas-are-worthless-c7f73efadc84](https://blog.refineri.co.uk/business-ideas-are-worthless-c7f73efadc84)
-* [https://www.wrike.com/blog/working-remotely-during-coronavirus-outbreak/](https://www.wrike.com/blog/working-remotely-during-coronavirus-outbreak/)
-* [https://thenextweb.com/podium/2019/04/14/4-scenarios-where-hiring-an-offsite-dev-team-makes-sense/](https://thenextweb.com/podium/2019/04/14/4-scenarios-where-hiring-an-offsite-dev-team-makes-sense/)
-* [https://www.digitalknights.co/blog/get-the-most-out-of-remote-teams-in-an-agile-environment/](https://www.digitalknights.co/blog/get-the-most-out-of-remote-teams-in-an-agile-environment/)
-* [https://djangostars.com/blog/how-to-manage-a-software-development-team-across-time-zones/](https://djangostars.com/blog/how-to-manage-a-software-development-team-across-time-zones/)
-* [https://about.gitlab.com/company/culture/all-remote/management/](https://about.gitlab.com/company/culture/all-remote/management/)
-* [https://fullscale.io/manage-a-remote-development-team/](https://fullscale.io/manage-a-remote-development-team/)
-* [https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/](https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/)
-* [https://www.freecodecamp.org/news/remote-teams-manager-guide/ ](https://www.freecodecamp.org/news/remote-teams-manager-guide/)
- 
-
+* [https://www.wrike.com/blog/working-remotely-during-coronavirus-outbreak/](https://www.wrike.com/blog/working-remotely-during-coronavirus-outbreak/){:rel="nofollow"}
+* [https://thenextweb.com/podium/2019/04/14/4-scenarios-where-hiring-an-offsite-dev-team-makes-sense/](https://thenextweb.com/podium/2019/04/14/4-scenarios-where-hiring-an-offsite-dev-team-makes-sense/){:rel="nofollow"}
+* [https://www.digitalknights.co/blog/get-the-most-out-of-remote-teams-in-an-agile-environment/](https://www.digitalknights.co/blog/get-the-most-out-of-remote-teams-in-an-agile-environment/){:rel="nofollow"}
+* [https://djangostars.com/blog/how-to-manage-a-software-development-team-across-time-zones/](https://djangostars.com/blog/how-to-manage-a-software-development-team-across-time-zones/){:rel="nofollow"}
+* [https://about.gitlab.com/company/culture/all-remote/management/](https://about.gitlab.com/company/culture/all-remote/management/){:rel="nofollow"}
+* [https://fullscale.io/manage-a-remote-development-team/](https://fullscale.io/manage-a-remote-development-team/){:rel="nofollow"}
+* [https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/](https://clubhouse.io/blog/common-fails-in-a-remote-software-team-and-how-to/){:rel="nofollow"}
+* [https://www.freecodecamp.org/news/remote-teams-manager-guide/ ](https://www.freecodecamp.org/news/remote-teams-manager-guide/){:rel="nofollow"}

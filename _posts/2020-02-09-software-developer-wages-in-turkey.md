@@ -16,7 +16,7 @@ The average salary of a junior developer in Sweden is $37,595 per year, while se
 
 ### References
 
-* [https://techbeacon.com/app-dev-testing/top-12-international-cities-software-engineers](https://techbeacon.com/app-dev-testing/top-12-international-cities-software-engineers)
-* [https://www.daxx.com/blog/development-trends/it-salaries-software-developer-trends-2019](https://www.daxx.com/blog/development-trends/it-salaries-software-developer-trends-2019)
-* [https://www.codingdojo.com/blog/entry-level-software-developer-salary](https://www.codingdojo.com/blog/entry-level-software-developer-salary)
-* [https://blog.udacity.com/2014/11/front-end-web-developers-what-youll_12.html](https://blog.udacity.com/2014/11/front-end-web-developers-what-youll_12.html)
+* [https://techbeacon.com/app-dev-testing/top-12-international-cities-software-engineers](https://techbeacon.com/app-dev-testing/top-12-international-cities-software-engineers){:rel="nofollow"}
+* [https://www.daxx.com/blog/development-trends/it-salaries-software-developer-trends-2019](https://www.daxx.com/blog/development-trends/it-salaries-software-developer-trends-2019){:rel="nofollow"}
+* [https://www.codingdojo.com/blog/entry-level-software-developer-salary](https://www.codingdojo.com/blog/entry-level-software-developer-salary){:rel="nofollow"}
+* [https://blog.udacity.com/2014/11/front-end-web-developers-what-youll_12.html](https://blog.udacity.com/2014/11/front-end-web-developers-what-youll_12.html){:rel="nofollow"}
